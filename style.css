@@ -16,7 +16,7 @@
 /*BODY JA WRAPPER*/
 
 .background {
-    background-image: url(images/laava.png);
+    background-image: url(images/background-default.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
