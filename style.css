@@ -15,26 +15,24 @@
 
 /*BODY JA WRAPPER*/
 
-.landing-page {
-    background-image: url(images/nettiisivu_wrapper_tausta.jpg);
+.background {
+    background-image: url(images/background-default.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-repeat:inherit;
     display: flex;
     min-height: 100vh;
+    background-attachment: fixed;
 }
 
-.blog-post {
-    background-image: url(images/nettiisivu_wrapper_tausta.jpg);
+.background-2 {
+    background-image: url(images/background-default.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     display: flex;
     min-height: 100vh;
-
     background-attachment: fixed;
-    
 }
 
 .wrapper {
@@ -105,7 +103,6 @@ p {
 .lukuohje {
     font-style: italic;
     text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
-    padding-bottom: 15px;
 }
 
 a {
@@ -121,6 +118,7 @@ a {
 ul, ol {
     padding: 0;
     margin: 0 0;
+    margin-top: 3vmin;
   }
 
 li {
