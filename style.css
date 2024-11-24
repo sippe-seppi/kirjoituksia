@@ -6,7 +6,8 @@
     padding: 0 auto;
     border: 0 auto;
     color: rgb(255, 248, 239);
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    /*font-family:Georgia, 'Times New Roman', Times, serif;*/
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-family:'Courier New', Courier, monospace;
     font-size: 18px;
     /*outline: solid red;*/
@@ -64,7 +65,8 @@ h1 {
     font-weight: Normal;
     font-size: 50px;
     text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+   /*font-family:Georgia, 'Times New Roman', Times, serif;*/
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #website-subtitle {
@@ -76,7 +78,8 @@ h2 {
     margin-left: 40px;
     font-size: 20px;
     text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    /*font-family:Georgia, 'Times New Roman', Times, serif;*/
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h3 {
