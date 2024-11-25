@@ -16,7 +16,7 @@
 
 .background {
     background-image: url(images/background-default.jpg);
-    background-color: rgb(251, 207, 253);
+    background-color: rgb(255, 255, 255);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -27,7 +27,7 @@
 
 .background-2 {
     background-image: url(images/background-default.jpg);
-    background-color: rgb(251, 207, 253);
+    background-color: rgb(255, 255, 255);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
